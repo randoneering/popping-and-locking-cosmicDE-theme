@@ -2,10 +2,13 @@
 
 A dark theme port for COSMIC DE, based on the popular "Popping and Locking" color scheme used in iTerm2, Ghostty, Zed, VSCode, and other development tools.
 
+
+
 ## Import into COSMIC DE
 
-```
- # Clone Repo
+```bash
+ #Clone Repo
+
  git clone https://github.com/randoneering/popping-and-locking-cosmicDE-theme.git
  
 ```
